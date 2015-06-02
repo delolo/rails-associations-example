@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  propname: MyString
+  typename: MyString
+  dosageform: MyString
+
+two:
+  propname: MyString
+  typename: MyString
+  dosageform: MyString
